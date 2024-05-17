@@ -1,0 +1,3 @@
+[submodule "GateMate"]
+	path = GateMate
+	url = https://github.com/GateMate-TQS/GateMate.git
