@@ -33,6 +33,7 @@ The documentation for this project is available at the docs folder.
 ## Important Links
 - [Project Repository](https://github.com/GateMate-TQS/Projeto-TQS)
 - [Project Management](https://ua-team-uuqqbcie.atlassian.net/jira/software/projects/SCRUM/boards/1)
+- [SonarCloud](https://sonarcloud.io/projects?_gl=1*8x438f*_gcl_au*MTUzMDI0MDc4NS4xNzE2NDEwODI3*_ga*NTAwMzQ4ODkuMTcxNjQxMDgyNw..*_ga_9JZ0GZ5TC6*MTcxNzU4Nzk2NC4yLjAuMTcxNzU4Nzk2NC42MC4wLjA.)
 - [Aviation Stack API](https://aviationstack.com/)
 
 ## Autores
@@ -42,4 +43,4 @@ The documentation for this project is available at the docs folder.
 | 107637| André Oliveira| andreaoliveira@ua.pt| Team Manager |
 | 107359| Duarte Cruz | duarteccruz@ua.pt | DevOps |
 | 108624| Tomás Matos | tomas.matos@ua.pt| Product Owner |
-| 108902| Diogo Almeida | almeidadiogo03@ua.pt | Architect |
+| 108902| Diogo Almeida | almeidadiogo03@ua.pt | QA Engineer |
