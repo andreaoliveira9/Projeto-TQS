@@ -1,5 +1,7 @@
 # GATEMATE
 
+Nota: 15
+
 ## Abstract
 GateMate is a flight booking and management platform designed to simplify and enhance the travel experience for users utilizing air travel services. It will be used by travelers to perform various flight-related operations, such as ticket booking, online check-in, and accessing real-time flight information.
 
